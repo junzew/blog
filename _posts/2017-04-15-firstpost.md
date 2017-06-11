@@ -1,7 +1,8 @@
 ---
-layout: default
-title: first post
+layout: post
+title: "First Post"
 meta : a first post
 ---
 
-first post written
+First post written
+

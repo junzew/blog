@@ -4,13 +4,13 @@ title:  "Review - Bringing the web up to speed with WebAssembly"
 categories: PL review
 ---
 
-https://doi.org/10.1145/3062341.3062363
+[Paper](https://doi.org/10.1145/3062341.3062363)
 
 Overall merit
-3. Weak accept
+- 3. Weak accept
 
 Reviewer expertise
-2. Some familiarity
+- 2. Some familiarity
 
 Paper summary
 

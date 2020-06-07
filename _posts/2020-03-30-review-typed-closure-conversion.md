@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Review -  Lightweight verification of separate compilation"
+title:  "Review - Typed closure conversion preserves observational equivalence"
 categories: PL review
 ---
 
-https://doi.org/10.1145/1411204.1411227
+[Paper](https://doi.org/10.1145/1411204.1411227)
+
 
 Overall merit
-4. Accept
+- 4. Accept
 
 Reviewer expertise
-2. Some familiarity
+- 2. Some familiarity
 
 Paper summary
 

@@ -4,13 +4,15 @@ title:  "Review - CT-wasm: type-driven secure cryptography for the web ecosystem
 categories: PL review
 ---
 
-https://doi.org/10.1145/3291642
+[Paper](https://doi.org/10.1145/3291642)
+
 
 Overall merit
-4. Accept
+- 4. Accept
 
 Reviewer expertise
-2. Some familiarity
+- 2. Some familiarity
+
 
 Paper summary
 

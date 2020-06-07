@@ -4,13 +4,13 @@ title:  "Review - A dependently typed assembly language"
 categories: PL review
 ---
 
-https://www.cs.cmu.edu/~rwh/papers/dtal/OGI-CSE-99-008.pdf
+[Paper](https://www.cs.cmu.edu/~rwh/papers/dtal/OGI-CSE-99-008.pdf)
 
 Overall merit
-4. Accept
+- 4. Accept
 
 Reviewer expertise
-2. Some familiarity
+- 2. Some familiarity
 
 Paper summary
 

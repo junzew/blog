@@ -4,13 +4,15 @@ title:  "Review - Compositional CompCert"
 categories: PL review
 ---
 
-https://doi.org/10.1145/2775051.2676985
+[Paper](https://doi.org/10.1145/2775051.2676985)
+
 
 Overall merit
-4. Accept
+- 4. Accept
 
 Reviewer expertise
-2. Some familiarity
+- 1. No familiarity
+
 
 Paper Summary
 

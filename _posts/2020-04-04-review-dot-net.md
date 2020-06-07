@@ -4,13 +4,14 @@ title:  "Review - Securing the .NET programming model"
 categories: PL review
 ---
 
-https://dl.acm.org/doi/10.1016/j.tcs.2006.08.014
+[Paper](https://dl.acm.org/doi/10.1016/j.tcs.2006.08.014)
+
 
 Overall merit
-3. Weak accept
+- 3. Weak accept
 
 Reviewer expertise
-1. No familiarity
+- 1. No familiarity
 
 Paper summary
 

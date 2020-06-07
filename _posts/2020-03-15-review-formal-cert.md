@@ -4,13 +4,13 @@ title:  "Review - Formal certification of a compiler back-end or: programming a 
 categories: PL review
 ---
 
-https://doi.org/10.1145/1111037.1111042
+[Paper](https://doi.org/10.1145/1111037.1111042)
 
 Overall merit
-3. Weak accept
+- 3. Weak accept
 
 Reviewer expertise
-2. Some familiarity
+- 2. Some familiarity
 
 Paper summary
 

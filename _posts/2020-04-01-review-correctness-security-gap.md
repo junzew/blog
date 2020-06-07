@@ -4,13 +4,14 @@ title:  "Review -  The Correctness-Security Gap in Compiler Optimization"
 categories: PL review
 ---
 
-https://dl.acm.org/doi/10.5555/2867541.2867769
+[Paper](https://dl.acm.org/doi/10.5555/2867541.2867769)
+
 
 Overall merit
-4. Accept
+- 4. Accept
 
 Reviewer expertise
-2. Some familiarity
+- 2. Some familiarity
 
 Paper summary
 

@@ -4,13 +4,13 @@ title:  "Review - Proof-carrying code"
 categories: PL review
 ---
 
-https://doi.org/10.1145/263699.263712
+[Paper](https://doi.org/10.1145/263699.263712)
 
 Overall merit
-4. Accept
+- 4. Accept
 
 Reviewer expertise
-1. No familiarity
+- 1. No familiarity
 
 Paper summary
 

@@ -4,13 +4,13 @@ title:  "Review - From System F to Typed Assembly Language"
 categories: PL review
 ---
 
-https://doi.org/10.1145/319301.319345
+[Paper](https://doi.org/10.1145/319301.319345)
 
 Overall merit
-5.  Strong accept
+- 5.  Strong accept
 
 Reviewer expertise
-2.  Some familiarity
+- 2.  Some familiarity
 
 Paper summary
 

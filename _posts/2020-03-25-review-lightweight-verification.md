@@ -7,11 +7,9 @@ categories: PL review
 [Paper](https://doi.org/10.1145/2837614.2837642)
 
 
-Overall merit
-- 4. Accept
+Overall merit - 4. Accept
 
-Reviewer expertise
-- 2. Some familiarity
+Reviewer expertise - 2. Some familiarity
 
 Paper Summary
 

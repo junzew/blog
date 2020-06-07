@@ -7,11 +7,9 @@ categories: PL review
 [Paper](https://dl.acm.org/doi/10.1016/j.tcs.2006.08.014)
 
 
-Overall merit
-- 3. Weak accept
+Overall merit - 3. Weak accept
 
-Reviewer expertise
-- 1. No familiarity
+Reviewer expertise - 1. No familiarity
 
 Paper summary
 

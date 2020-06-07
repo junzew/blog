@@ -6,11 +6,9 @@ categories: PL review
 
 [Paper](https://doi.org/10.1145/1111037.1111042)
 
-Overall merit
-- 3. Weak accept
+Overall merit - 3. Weak accept
 
-Reviewer expertise
-- 2. Some familiarity
+Reviewer expertise - 2. Some familiarity
 
 Paper summary
 

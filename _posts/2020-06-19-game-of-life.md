@@ -18,7 +18,7 @@ Given a board with *m* by *n* cells, each cell has an initial state *live* (1) o
 
 ## Example
 Glider
-![sieve animation]({{ "/assets/Sieve_of_Eratosthenes_animation.gif" | absolute_url }})
+![glider_animation]({{ "/assets/glider.gif" | absolute_url }})
 
 ## Running Pygame in a Browser
 

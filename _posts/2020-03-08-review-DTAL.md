@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - A dependently typed assembly language"
+title:  "[Review] A dependently typed assembly language"
 categories: PL review
 ---
 

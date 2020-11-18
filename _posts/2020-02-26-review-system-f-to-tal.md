@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - From System F to Typed Assembly Language"
+title:  "[Review] From System F to Typed Assembly Language"
 categories: PL review
 ---
 

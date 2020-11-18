@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - Securing the .NET programming model"
+title:  "[Review] Securing the .NET programming model"
 categories: PL review
 ---
 

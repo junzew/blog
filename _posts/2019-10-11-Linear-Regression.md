@@ -9,7 +9,7 @@ meta : R, machine learning, statistics
 
 Using the closed form formula for beta minimizing the mean squared error (MSE):
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\hat{\beta} = (X^TX)^{-1}X^TY" />
+$\hat{\beta} = (X^TX)^{-1}X^TY$
 
 ```
 linear <- function(y, X) {

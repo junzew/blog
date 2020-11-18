@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review -  The Correctness-Security Gap in Compiler Optimization"
+title:  "[Review] The Correctness-Security Gap in Compiler Optimization"
 categories: PL review
 ---
 

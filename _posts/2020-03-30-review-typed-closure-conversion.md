@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - Typed closure conversion preserves observational equivalence"
+title:  "[Review] Typed closure conversion preserves observational equivalence"
 categories: PL review
 ---
 

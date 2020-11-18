@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - TIL: A Type-direct optimizing compiler for ML"
+title:  "[Review] TIL: A Type-direct optimizing compiler for ML"
 categories: PL review
 ---
 

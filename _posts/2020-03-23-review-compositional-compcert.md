@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - Compositional CompCert"
+title:  "[Review] Compositional CompCert"
 categories: PL review
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review -  Lightweight verification of separate compilation"
+title:  "[Review] Lightweight verification of separate compilation"
 categories: PL review
 ---
 

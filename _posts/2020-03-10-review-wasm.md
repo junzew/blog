@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - Bringing the web up to speed with WebAssembly"
+title:  "[Review] Bringing the web up to speed with WebAssembly"
 categories: PL review
 ---
 

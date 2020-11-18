@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - CT-wasm: type-driven secure cryptography for the web ecosystem"
+title:  "[Review] CT-wasm: type-driven secure cryptography for the web ecosystem"
 categories: PL review
 ---
 

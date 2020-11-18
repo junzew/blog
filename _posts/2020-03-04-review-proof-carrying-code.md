@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - Proof-carrying code"
+title:  "[Review] Proof-carrying code"
 categories: PL review
 ---
 

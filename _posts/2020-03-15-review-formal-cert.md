@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - Formal certification of a compiler back-end or: programming a compiler with a proof assistant"
+title:  "[Review] Formal certification of a compiler back-end or: programming a compiler with a proof assistant"
 categories: PL review
 ---
 

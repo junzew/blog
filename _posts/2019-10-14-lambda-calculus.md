@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Introduction to Lambda Calculus"
-comments: true
 meta : lambda calculus
 ---
 

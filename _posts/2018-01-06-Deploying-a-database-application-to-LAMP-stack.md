@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Deployment of a Laravel and MySQL Web Application to EC2"
-comments: true
 meta : PHP MySQL Ubuntu EC2 LAMP
 categories: PHP MySQL Ubuntu EC2 LAMP
 ---

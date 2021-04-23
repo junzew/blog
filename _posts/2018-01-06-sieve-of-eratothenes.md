@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Sieve of Erathothenes"
-comments: true
 meta : Python Erathothenes prime
 categories: Python math algorithm
 ---

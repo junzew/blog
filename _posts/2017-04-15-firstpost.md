@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About this blog"
+comments: true
 meta : blog info
 ---
 
